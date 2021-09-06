@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+.jumbotron {
+    background: url(../images/laboratory-design.png) center no-repeat;
+    background-size: 100%;
+    color: black;
+    
+}
+.jumbotron p{
+    background-color: aliceblue;
+    padding: 1em 2em;
+}
